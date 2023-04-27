@@ -37,5 +37,7 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 
 # Achievments
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shimolina-polina)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shimolina-polina)](https://github.com/ryo-ma/github-profile-trophy)
 
