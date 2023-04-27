@@ -45,3 +45,4 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shimolina-polina)](https://github.com/ryo-ma/github-profile-trophy)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9999&width=435&lines=Thanks+for+visiting" alt="Typing SVG" /></a>
