@@ -1,6 +1,8 @@
 <h1>Hi, I my name is Polina 🌸</h1>
 <h3>Data science BMSTU student 🇷🇺</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimolina-polina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # About me
 
 I am a junior data scientist, studying at Bauman Moscow State Technical University. I have already learned how to analyze data using python and work with BI tools. I have also worked with databases using MS Access and MySQL. At the moment I am studying machine learning and neural networks
