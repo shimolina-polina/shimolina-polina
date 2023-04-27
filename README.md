@@ -1,7 +1,13 @@
 <h1>Hi, I my name is Polina 🌸</h1>
 <h3>Data science BMSTU student 🇷🇺</h3>
 
+# My top using languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimolina-polina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# My streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shimolina-polina)](https://git.io/streak-stats)
 
 # About me
 
@@ -38,8 +44,6 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 
 
 # Achievments
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shimolina-polina)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shimolina-polina)](https://github.com/ryo-ma/github-profile-trophy)
 
