@@ -32,3 +32,10 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
+
+# Achievments
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shimolina-polina)](https://github.com/ryo-ma/github-profile-trophy)
+
