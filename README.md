@@ -1,14 +1,6 @@
 <h1>Hi, I my name is Polina 🌸</h1>
 <h3>Data science BMSTU student 🇷🇺</h3>
 
-# My top using languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimolina-polina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-# My streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shimolina-polina)](https://git.io/streak-stats)
-
 # About me
 
 I am a junior data scientist, studying at Bauman Moscow State Technical University. I have already learned how to analyze data using python and work with BI tools. I have also worked with databases using MS Access and MySQL. At the moment I am studying machine learning and neural networks
@@ -41,7 +33,13 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+# My top using languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimolina-polina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# My streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shimolina-polina)](https://git.io/streak-stats)
 
 # Achievments
 
