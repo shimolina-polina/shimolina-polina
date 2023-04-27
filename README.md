@@ -41,6 +41,5 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 
 
 
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=000000&width=435&lines=Thanks+for+visiting" alt="Typing SVG" /></a>
 
