@@ -1,4 +1,4 @@
-<h1>Hi, I my name is Polina 🌸</h1>
+<h1>Hi, I my name is Polina</h1>
 <h3>Data science BMSTU student 🇷🇺</h3>
 
 # About me
