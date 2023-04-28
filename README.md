@@ -1,5 +1,5 @@
 <h1>Hi, my name is Polina</h1>
-<h3>Data science BMSTU student 🇷🇺</h3>
+<h3>Data science BMSTU student</h3>
 
 # About me
 
