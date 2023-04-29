@@ -51,11 +51,11 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 |[Processing of data](https://github.com/shimolina-polina/processing-of-data)|Processing of data gaps, coding of categorical features, data scaling.|
 |[Decision trees](https://github.com/shimolina-polina/decision-trees)|Linear models, SVM and decision trees|
 |[Ensembles](https://github.com/shimolina-polina/ensembles)|Ensembles of machine learning models|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|[Interactive makeup selection](https://github.com/shimolina-polina/interactive-makeup-selection)|A Python program using OpenCV, which provides the ability to interactively select makeup from a given set and overlay in a video stream from a video camera in real time.|
+|[Time series](https://github.com/shimolina-polina/time-series)|Time series analysis and forecasting|
+|[YouTube video analysis](https://github.com/shimolina-polina/youtube-videos-analysis)|Data Optimization, data Cleaning, data Processing, hypotheses and visualization|
+|[Streamlit model training](https://github.com/shimolina-polina/streamlit-model-training)|Demonstration of machine learning models using web application|
+|[My web-page](https://github.com/shimolina-polina/my-web-site)|Simple portfolio website|
+|[Game sales analysis](https://github.com/shimolina-polina/game-sales-analisys)|Data analysis and visualisation|
+|[Predicting telecom churn](https://github.com/shimolina-polina/predicting-telecom-churn)|Predicting behavior to retain customers. Analysis of all relevant customer data. Training random forest model|
+|[Lungs classification](https://github.com/shimolina-polina/lungs-classification)|Lungs classification into 2 classes: healthy and pneumonia. 91% accuracy|
