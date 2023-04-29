@@ -47,4 +47,15 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 |Project Name|Description|
 |---|-------|
 |[KNN](https://github.com/shimolina-polina/KNN)|Preparation of training and test samples, cross-validation and selection of hyperparameters on the example of the nearest neighbor method.|
-|3|4|
+|[Exploratory data analysis](https://github.com/shimolina-polina/exploratory-data-analysis)|Data exploration and visualization|
+|[Processing of data](https://github.com/shimolina-polina/processing-of-data)|Processing of data gaps, coding of categorical features, data scaling.|
+|[Decision trees](https://github.com/shimolina-polina/decision-trees)|Linear models, SVM and decision trees|
+|[Ensembles](https://github.com/shimolina-polina/ensembles)|Ensembles of machine learning models|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
