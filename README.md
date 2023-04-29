@@ -39,9 +39,6 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 [![trophy](https://github-profile-trophy.vercel.app/?username=shimolina-polina)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=000000&width=435&lines=Thanks+for+visiting" alt="Typing SVG" /></a>
-
 # Navigation
 
 |Project Name|Description|
@@ -59,3 +56,6 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 |[Game sales analysis](https://github.com/shimolina-polina/game-sales-analisys)|Data analysis and visualisation|
 |[Predicting telecom churn](https://github.com/shimolina-polina/predicting-telecom-churn)|Predicting behavior to retain customers. Analysis of all relevant customer data. Training random forest model|
 |[Lungs classification](https://github.com/shimolina-polina/lungs-classification)|Lungs classification into 2 classes: healthy and pneumonia. 91% accuracy|
+https://git.io/typing-svg
+
+<a href="https://github.com/shimolina-polina"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=000000&width=435&lines=Thanks+for+visiting" alt="Typing SVG" /></a>
