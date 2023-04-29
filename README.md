@@ -44,7 +44,7 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 
 # Navigation
 
-| Project name | Description |
-| — — — | — — — — — -|
-| R1C1 | R1C2 |
-| R2C1 | R2C2 |
+|Project Name|Description|
+|---|-------|
+|1|2|
+|3|4|
