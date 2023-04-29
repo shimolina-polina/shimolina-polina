@@ -46,5 +46,5 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 
 |Project Name|Description|
 |---|-------|
-|1|2|
+|[KNN](https://github.com/shimolina-polina/KNN)|Preparation of training and test samples, cross-validation and selection of hyperparameters on the example of the nearest neighbor method.|
 |3|4|
