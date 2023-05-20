@@ -43,18 +43,18 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 
 |Project Name|Description|
 |---|-------|
+|[Lungs classification](https://github.com/shimolina-polina/lungs-classification)|Lungs classification into 2 classes: healthy and pneumonia. 91% accuracy|
+|[Computer vision makeup selection](https://github.com/shimolina-polina/interactive-makeup-selection)|A Python program using OpenCV, which provides the ability to interactively select makeup from a given set and overlay in a video stream from a video camera in real time.|
+|[Streamlit model training](https://github.com/shimolina-polina/streamlit-model-training)|Demonstration of machine learning models using web application|
+|[Time series](https://github.com/shimolina-polina/time-series)|Time series analysis and forecasting|
 |[KNN](https://github.com/shimolina-polina/KNN)|Preparation of training and test samples, cross-validation and selection of hyperparameters on the example of the nearest neighbor method.|
-|[Exploratory data analysis](https://github.com/shimolina-polina/exploratory-data-analysis)|Data exploration and visualization|
-|[Processing of data](https://github.com/shimolina-polina/processing-of-data)|Processing of data gaps, coding of categorical features, data scaling.|
 |[Decision trees](https://github.com/shimolina-polina/decision-trees)|Linear models, SVM and decision trees|
 |[Ensembles](https://github.com/shimolina-polina/ensembles)|Ensembles of machine learning models|
-|[Computer vision makeup selection](https://github.com/shimolina-polina/interactive-makeup-selection)|A Python program using OpenCV, which provides the ability to interactively select makeup from a given set and overlay in a video stream from a video camera in real time.|
-|[Time series](https://github.com/shimolina-polina/time-series)|Time series analysis and forecasting|
+|[Exploratory data analysis](https://github.com/shimolina-polina/exploratory-data-analysis)|Data exploration and visualization|
+|[Processing of data](https://github.com/shimolina-polina/processing-of-data)|Processing of data gaps, coding of categorical features, data scaling.|
 |[YouTube video analysis](https://github.com/shimolina-polina/youtube-videos-analysis)|Data Optimization, data Cleaning, data Processing, hypotheses and visualization|
-|[Streamlit model training](https://github.com/shimolina-polina/streamlit-model-training)|Demonstration of machine learning models using web application|
 |[My web-page](https://github.com/shimolina-polina/my-web-site)|Simple portfolio website|
 |[Game sales analysis](https://github.com/shimolina-polina/game-sales-analisys)|Data analysis and visualisation|
 |[Predicting telecom churn](https://github.com/shimolina-polina/predicting-telecom-churn)|Predicting behavior to retain customers. Analysis of all relevant customer data. Training random forest model|
-|[Lungs classification](https://github.com/shimolina-polina/lungs-classification)|Lungs classification into 2 classes: healthy and pneumonia. 91% accuracy|
 
 <a href="https://github.com/shimolina-polina"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=000000&width=435&lines=Thanks+for+visiting" alt="Typing SVG" /></a>
