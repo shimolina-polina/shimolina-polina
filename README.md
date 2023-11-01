@@ -40,6 +40,7 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 |[Lungs classification](https://github.com/shimolina-polina/lungs-classification)|Lungs classification into 2 classes: healthy and pneumonia. 91% accuracy|
 |[Computer vision makeup selection](https://github.com/shimolina-polina/interactive-makeup-selection)|A Python program using OpenCV, which provides the ability to interactively select makeup from a given set and overlay in a video stream from a video camera in real time.|
 |[Streamlit model training](https://github.com/shimolina-polina/streamlit-model-training)|Demonstration of machine learning models using web application|
+|[HH.ru vacancies analysis](https://github.com/shimolina-polina/hh_ru_specializations_analysis)|Analysis of vacancies with use of hh.ru OpenAPI|
 |[Time series](https://github.com/shimolina-polina/time-series)|Time series analysis and forecasting|
 |[KNN](https://github.com/shimolina-polina/KNN)|Preparation of training and test samples, cross-validation and selection of hyperparameters on the example of the nearest neighbor method.|
 |[Decision trees](https://github.com/shimolina-polina/decision-trees)|Linear models, SVM and decision trees|
