@@ -48,7 +48,6 @@ I am a junior data scientist, studying at Bauman Moscow State Technical Universi
 |[Exploratory data analysis](https://github.com/shimolina-polina/exploratory-data-analysis)|Data exploration and visualization|
 |[Processing of data](https://github.com/shimolina-polina/processing-of-data)|Processing of data gaps, coding of categorical features, data scaling.|
 |[YouTube video analysis](https://github.com/shimolina-polina/youtube-videos-analysis)|Data Optimization, data Cleaning, data Processing, hypotheses and visualization|
-|[My web-page](https://github.com/shimolina-polina/my-web-site)|Simple portfolio website|
 |[Game sales analysis](https://github.com/shimolina-polina/game-sales-analisys)|Data analysis and visualisation|
 |[Predicting telecom churn](https://github.com/shimolina-polina/predicting-telecom-churn)|Predicting behavior to retain customers. Analysis of all relevant customer data. Training random forest model|
 
