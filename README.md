@@ -1,5 +1,5 @@
 <h1>Hi, my name is Polina</h1>
-<h3>Frontehd developer</h3>
+<h3>Frontend developer</h3>
 
 # About me
 
