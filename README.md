@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Привет, я Полина — фронтенд-разработчик
 
-<!--
-**shimolina-polina/shimolina-polina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Стек технологий:**  
+- **Языки:** JavaScript (ES6+), TypeScript
+- **Фреймворки:** React  
+- **Стилизация:** CSS3, SCSS/SASS, CSS-in-JS
+- **Инструменты:** Webpack, Vite
+- **Тестирование:** Jest, React Testing Library  
+- **Другое:** Redux, REST API, Git, Figma  
 
-Here are some ideas to get you started:
+## 📊 Статистика GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ваши GitHub stats](https://github-readme-stats.vercel.app/api?username=shimolina-polina&show_icons=true&theme=radical)](https://github.com/shimolina-polina)  
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=shimolina-polina&layout=compact&theme=radical)](https://github.com/shimolina-polina)  
+
+## 📫 Как со мной связаться  
+- **Почта:** shimolinapk@gmail.com  
+- **Telegram:** @p_o_l_y_a  
+
+---
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=shimolina-polina.shimolina-polina)](https://github.com/shimolina-polina)  
+
+**Адаптируйте текст под ваш опыт и стиль!** 😊
