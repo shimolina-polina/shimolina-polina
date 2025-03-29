@@ -10,7 +10,6 @@
 
 ## 📊 Статистика GitHub  
 
-[![Ваши GitHub stats](https://github-readme-stats.vercel.app/api?username=shimolina-polina&show_icons=true&theme=radical)](https://github.com/shimolina-polina)  
 [![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=shimolina-polina&layout=compact&theme=radical)](https://github.com/shimolina-polina)  
 
 ## 📫 Как со мной связаться  
