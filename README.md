@@ -15,10 +15,4 @@
 
 ## 📫 Как со мной связаться  
 - **Почта:** shimolinapk@gmail.com  
-- **Telegram:** @p_o_l_y_a  
-
----
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=shimolina-polina.shimolina-polina)](https://github.com/shimolina-polina)  
-
-**Адаптируйте текст под ваш опыт и стиль!** 😊
+- **Telegram:** [@p_o_l_y_a](https://t.me/p_o_l_y_a)
