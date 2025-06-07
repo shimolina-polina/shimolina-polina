@@ -2,11 +2,11 @@
 
 ## 💻 **Стек технологий:**  
 - **Языки:** JavaScript (ES6+), TypeScript
-- **Фреймворки:** React  
-- **Стилизация:** CSS3, SCSS/SASS, CSS-in-JS, styled-components
+- **Фреймворки:** React
+- **Стилизация:** CSS3, SCSS/SASS, CSS-in-JS, styled-components, Tailwind
 - **Инструменты:** Webpack, Vite
-- **Тестирование:** Jest, React Testing Library  
-- **Другое:** Redux Toolkit, REST API, Git, Figma  
+- **Тестирование:** Jest, React Testing Library
+- **Другое:** Redux Toolkit, REST API, Git, Figma, React Router
 
 ## 📊 Статистика GitHub  
 
