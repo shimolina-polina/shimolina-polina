@@ -1,11 +1,11 @@
 # 👋 Привет, я Полина — фронтенд-разработчик
 
 ## 💻 **Стек технологий:**  
-- **Языки:** JavaScript (ES6+), TypeScript
-- **Фреймворки:** React
+- **Языки:** JavaScript (ES6+), TypeScript, Java
+- **Фреймворки:** React, Next
 - **Стилизация:** CSS3, SCSS/SASS, CSS-in-JS, styled-components, Tailwind
 - **Инструменты:** Webpack, Vite
-- **Тестирование:** Jest, React Testing Library
+- **Тестирование:** Jest, React Testing Library, playwright
 - **Другое:** Redux Toolkit, REST API, Git, Figma, React Router
 
 ## 📊 Статистика GitHub  
